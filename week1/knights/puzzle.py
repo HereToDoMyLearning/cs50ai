@@ -1,4 +1,4 @@
-from Week1.logic import *
+from logic import *
 
 AKnight = Symbol("A is a Knight")
 AKnave = Symbol("A is a Knave")

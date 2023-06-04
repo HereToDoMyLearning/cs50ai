@@ -1,5 +1,6 @@
 # cs50ai
 CS50 AI Introduction to Artificial Intelligence with Python
-## from: HereToDoMyLearning
-## 2023 
+from: HereToDoMyLearning
+Year 2023 
+## About me
 Business Informatics Student @HWR Berlin 
